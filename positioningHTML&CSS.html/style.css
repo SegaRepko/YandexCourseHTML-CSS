@@ -1,0 +1,21 @@
+body {
+    height: 1000px;
+}
+
+p {
+    outline: 1px solid green;
+    padding: 10px;
+    margin: 20px;
+    width: 150px;
+    position: fixed;
+    bottom: 560px;
+    right: 100px; 
+}
+button {
+    border:none;
+    color: white;
+    background-color: green;
+    position: fixed;
+    bottom: 575px;
+    right: 115px; 
+}
